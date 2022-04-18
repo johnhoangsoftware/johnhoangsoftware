@@ -5,8 +5,8 @@
 </p>
 
 
-<--![visitors](https://gpvc.arturio.dev/johnhoangsoftware?v=3)-->
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Hoàng
+<!--![visitors](https://gpvc.arturio.dev/johnhoangsoftware?v=3)-->
+<!--### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Hoàng-->
 
 - 👨‍🎓 I am a student at [UET-VNU](https://uet.vnu.edu.vn/).  
 - 👨🏻 I'm currently learning new things and I would love to engage in any project
@@ -26,6 +26,10 @@
 <br/>
   <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=johnhoangsoftware&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 <br/>
+
+<p align="center"> 
+    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+</p>
 
 <!--
 **johnhoangsoftware/johnhoangsoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
