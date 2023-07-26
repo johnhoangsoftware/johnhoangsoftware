@@ -68,9 +68,11 @@
 
 <details>
   <summary>Click to expand</summary>
-📌 [**May 2021 - Advanced Programming**]:
+	
+📌 [**Apr 2023**]:
   * Web 3.0 coswarm, owallet.
   * [Github Repo](https://github.com/johnhoangsoftware/agriorai.git)
+    
 <!--
 📌 [**Sep 2021**]:
   * Build a Discord Bot which playing music and providing memes.
