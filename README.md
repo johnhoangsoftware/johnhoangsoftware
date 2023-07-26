@@ -68,6 +68,9 @@
 
 <details>
   <summary>Click to expand</summary>
+📌 [**May 2021 - Advanced Programming**]:
+  * Web 3.0 coswarm, owallet.
+  * [Github Repo](https://github.com/johnhoangsoftware/agriorai.git)
 <!--
 📌 [**Sep 2021**]:
   * Build a Discord Bot which playing music and providing memes.
@@ -84,7 +87,7 @@
 
 📌 [**May 2021 - Advanced Programming**]:
   * Game SpaceShooter.
-  * [Github Repo](https://github.com/hoang1007/Snake.git)
+  * [Github Repo](https://github.com/johnhoangsoftware/BigGame.git)
 
 📌 [**Oct 2021 - Object Oriented Programming**]:
   * A Dictionary App which can translate from speech, image using JavaFx
@@ -97,6 +100,14 @@
 📌 [**Dec 2021 - Database**]:
   * Website Whatever coffee
   * [Github Repo](https://github.com/johnhoangsoftware/front-end-whatever-coffee)
+
+📌 [**Dec 2022 - Web**]:
+  * Website Aladin
+  * [Github Repo](https://github.com/hanzomaster/aladin)
+
+📌 [**May 2023 - Mobile**]:
+  * Mobile app Myhealth
+  * [Github Repo](https://github.com/johnhoangsoftware/my-health)
 </details>
 
 <!-- 
